@@ -1,2 +1,6 @@
-ViteJS | TailwindCSS installed
-Metamask provider implemented with context
+
+# Metamask Provider implemented with  context
+
+ViteJS and TailwindCSS are installed
+
+
